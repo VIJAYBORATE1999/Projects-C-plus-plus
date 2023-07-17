@@ -1,2 +1,5 @@
-# Projects-C-plus-plus
-The are some projects during my collage time in C++
+# Projects-C++
+Numerous captivating and innovative projects in the field of C++ 
+have been undertaken as part of college curricular. 
+These projects showcase the practical application of C++ programming
+concepts and emphasize its versatility.
